@@ -5,7 +5,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 var configFile = flag.String("config", "config.json", "Configuration file for paxi replica. Defaults to config.json.")

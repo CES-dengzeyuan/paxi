@@ -3,7 +3,7 @@ package wpaxos
 import (
 	"time"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 // TODO same as instance in wpaxos/paxos

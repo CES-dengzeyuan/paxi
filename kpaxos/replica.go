@@ -1,9 +1,9 @@
 package kpaxos
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
-	"github.com/ailidani/paxi/paxos"
+	"paxi"
+	"paxi/log"
+	"paxi/paxos"
 )
 
 // Replica KPaxos replica with Paxos instance for each key

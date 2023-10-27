@@ -1,8 +1,8 @@
 package wpaxos
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/paxos"
+	"paxi"
+	"paxi/paxos"
 )
 
 type kpaxos struct {

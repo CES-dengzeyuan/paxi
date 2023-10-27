@@ -7,7 +7,7 @@ import (
 	"encoding/gob"
 	"math"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // PREFIX is the leading zeros in hash value as proof of work

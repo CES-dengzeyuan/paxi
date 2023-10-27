@@ -3,7 +3,7 @@ package chain
 import (
 	"sort"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 type entry struct {

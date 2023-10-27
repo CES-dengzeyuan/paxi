@@ -1,6 +1,6 @@
 package wankeeper
 
-import "github.com/ailidani/paxi"
+import "paxi"
 
 // records of who owns the tokens
 type tokens struct {

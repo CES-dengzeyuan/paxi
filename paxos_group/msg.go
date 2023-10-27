@@ -3,7 +3,7 @@ package paxos_group
 import (
 	"encoding/gob"
 
-	"github.com/ailidani/paxi/paxos"
+	"paxi/paxos"
 )
 
 func init() {

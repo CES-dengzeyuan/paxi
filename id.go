@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // ID represents a generic identifier in format of Zone.Node

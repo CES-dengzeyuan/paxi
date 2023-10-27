@@ -1,8 +1,8 @@
 package m2paxos
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 // Replica is WPaxos replica node

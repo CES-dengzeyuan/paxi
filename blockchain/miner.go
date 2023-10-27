@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/gob"
 
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 // Miner is the maintainer of blockchain

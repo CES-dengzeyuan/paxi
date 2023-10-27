@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // DB is general interface implemented by client to call client library

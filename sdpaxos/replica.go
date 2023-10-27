@@ -3,7 +3,7 @@ package sdpaxos
 import (
 	"time"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 type entry struct {

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 // entry in log

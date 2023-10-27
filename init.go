@@ -4,7 +4,7 @@ import (
 	"flag"
 	"net/http"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // Init setup paxi package

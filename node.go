@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // Node is the primary access point for every replica

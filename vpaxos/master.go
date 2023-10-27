@@ -1,8 +1,8 @@
 package vpaxos
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 type nodes []paxi.ID

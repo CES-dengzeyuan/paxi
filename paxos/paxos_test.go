@@ -3,7 +3,7 @@ package paxos
 import (
 	"testing"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 func TestPaxos(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 // http request header names

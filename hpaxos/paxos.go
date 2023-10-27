@@ -3,8 +3,8 @@ package hpaxos
 import (
 	"time"
 
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 // entry in log

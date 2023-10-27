@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 type FakeDB struct {

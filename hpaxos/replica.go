@@ -1,8 +1,8 @@
 package hpaxos
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 // Replica for one Paxos instance

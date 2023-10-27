@@ -1,8 +1,8 @@
 package wankeeper
 
 import (
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/log"
 )
 
 type leader struct {

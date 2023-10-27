@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"flag"
 
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/chain"
-	"github.com/ailidani/paxi/paxos"
+	"paxi"
+	"paxi/chain"
+	"paxi/paxos"
 )
 
 var id = flag.String("id", "", "node id this client connects to")

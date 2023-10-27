@@ -1,6 +1,6 @@
 package wankeeper
 
-import "github.com/ailidani/paxi"
+import "paxi"
 
 type master struct {
 	*leader

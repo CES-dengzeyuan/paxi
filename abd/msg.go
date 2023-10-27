@@ -3,7 +3,7 @@ package abd
 import (
 	"encoding/gob"
 
-	"github.com/ailidani/paxi"
+	"paxi"
 )
 
 func init() {

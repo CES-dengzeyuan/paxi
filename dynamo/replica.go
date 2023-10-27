@@ -3,9 +3,9 @@ package dynamo
 import (
 	"encoding/binary"
 
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/lib"
-	"github.com/ailidani/paxi/log"
+	"paxi"
+	"paxi/lib"
+	"paxi/log"
 )
 
 type Replica struct {

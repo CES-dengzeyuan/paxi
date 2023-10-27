@@ -4,8 +4,8 @@ import (
 	"encoding/gob"
 	"fmt"
 
-	"github.com/ailidani/paxi"
-	"github.com/ailidani/paxi/paxos"
+	"paxi"
+	"paxi/paxos"
 )
 
 func init() {

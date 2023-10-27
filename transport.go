@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ailidani/paxi/log"
+	"paxi/log"
 )
 
 var scheme = flag.String("transport", "tcp", "transport scheme (tcp, udp, chan), default tcp")
